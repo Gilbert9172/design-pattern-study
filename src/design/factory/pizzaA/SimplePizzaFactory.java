@@ -1,11 +1,6 @@
 package design.factory.pizzaA;
 
-import design.factory.pizzaA.pizzaMenu.CheesePizza;
-import design.factory.pizzaA.pizzaMenu.ClamPizza;
-import design.factory.pizzaA.pizzaMenu.PepperoniPizza;
-import design.factory.pizzaA.pizzaMenu.VeggiePizza;
-
-public class SimplePizzaFactory {
+public class SimplePizzaFactory extends PizzaTestDrive {
 
     public SimplePizzaFactory() {};
 

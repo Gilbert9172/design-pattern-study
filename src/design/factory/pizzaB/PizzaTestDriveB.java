@@ -1,8 +1,5 @@
 package design.factory.pizzaB;
 
-import design.factory.pizzaB.pizzaStores.chicago.ChicagoPizzaStore;
-import design.factory.pizzaB.pizzaStores.newYork.NYPizzaStore;
-
 public class PizzaTestDriveB {
 
     public static void main(String[] args) {
